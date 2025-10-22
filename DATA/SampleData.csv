@@ -1,0 +1,7 @@
+Size,Color,Price,Quantity
+Small,Red,100,1
+Medium,Blue,150,2
+Large,Green,200,
+Small,Blue,,4
+Medium,Red,250,3
+Large,Green,300,
