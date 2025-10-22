@@ -11,9 +11,10 @@ Basically, I wanted to get a hands-on feel for preprocessing before diving into 
 
 | File                  | What it does                                                                                  |
 | --------------------- | ----------------------------------------------------------------------------------------------|
-| `ordinal_encoding.py` | Turns ordered categories (like Small, Medium, Large) into numbers using a manual mapping.     |
+| `DATA`                | A small house pricing dataset                                                                 |
+|`ordinal_encoding.py`  | Turns ordered categories (like Small, Medium, Large) into numbers using a manual mapping.     |
 | `onehot_encoding.py`  | Makes binary columns for each category using loops and simple NumPy logic.                    |
-| `imputation.py`       | Fills missing values using mean or mode, all done manually without high-level functions.      |
+| `imputation.py`       | Fills missing values using mea for mode, all done manually without high-level functions.      |
 
 
 
