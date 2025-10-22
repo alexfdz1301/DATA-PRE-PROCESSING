@@ -9,12 +9,12 @@ Basically, I wanted to get a hands-on feel for preprocessing before diving into 
 
 ## Files
 
-| File                  | What it does                                                                                  |
-| --------------------- | ----------------------------------------------------------------------------------------------|
-| `DATA`                | A small house pricing dataset                                                                 |
-|`ordinal_encoding.py`  | Turns ordered categories (like Small, Medium, Large) into numbers using a manual mapping.     |
-| `onehot_encoding.py`  | Makes binary columns for each category using loops and simple NumPy logic.                    |
-| `imputation.py`       | Fills missing values using mea for mode, all done manually without high-level functions.      |
+| File               | What it does                                                                                                        |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------|
+| `DATA`             | A small house pricing dataset                                                                                       |
+| `ENCODIND`         | Ordinal_ENCODING.py : Turns ordered categories (like Small, Medium, Large) into numbers using a manual mapping.     |
+|                    | OneHot_ENCODING.py  : Makes binary columns for each category using loops and simple NumPy logic.                    |
+| `IMPUTATION`       | Fills missing values using mea for mode, all done manually without high-level functions.                            |
 
 
 
