@@ -1,17 +1,9 @@
 # DATA PRE-PROCESSING in Python
 
 This repo is part of me learning the basics of data preprocessing in Python.
-I made three simple scripts to practice **Ordinal Encoding**, **One-Hot Encoding**, and **Imputation** - all done manually using **Python, Pandas, and NumPy**.
+It has three simple scripts to practice **Ordinal Encoding**, **One-Hot Encoding**, and **Imputation** - all done manually using **Python, Pandas, and NumPy**.
 
-The idea was to understand *how these things actually work* instead of just calling built-in functions like `get_dummies()` or scikit-learn encoders.
-
-
-## What I Practiced
-
-* Converting text categories to numbers manually
-* Creating one-hot encoded columns with loops
-* Filling missing values using mean (numeric) and mode (categorical)
-* Working with Pandas DataFrames and NumPy arrays for small datasets
+The idea was to understand *how these things actually work* instead of just calling built-in functions like `get_dummies()` or `scikit-learn encoders`.
 
 Basically, I wanted to get a hands-on feel for preprocessing before diving into real ML models.
 
@@ -27,10 +19,10 @@ Basically, I wanted to get a hands-on feel for preprocessing before diving into 
 
 ## What I Learned
 
-* The difference between **ordinal** and **one-hot encoding**
-* How to handle missing data manually
-* Why preprocessing is important before applying ML models
-* Improved comfort with Pandas and NumPy basics
+* The difference between **ordinal** and **one-hot encoding**.
+* How to handle missing data manually.
+* Importance of PRE-PROCESSING the data in ML models.
+* Improved comfort with Pandas and NumPy.
 
 
 This repo is just a simple record of what I tried and learned - nothing fancy.
